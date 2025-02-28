@@ -1,2 +1,2 @@
 # Toggle-Button
-Display Turns Dark &amp; Bright
+Display Turns Dark & Bright
